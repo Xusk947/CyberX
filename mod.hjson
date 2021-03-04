@@ -1,0 +1,7 @@
+name: "CyberX"
+displayName: "CyberX"
+author: "Xusk"
+main: "CyberX.Main"
+description: "Add some stuff in game."
+version: 1.0
+minGameVersion: 105
