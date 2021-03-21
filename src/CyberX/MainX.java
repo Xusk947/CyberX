@@ -13,6 +13,7 @@ public class MainX extends Mod {
     public ContentList[] content = new ContentList[] {
         new Blocks()
     };
+    
     public MainX() {
         
     }
